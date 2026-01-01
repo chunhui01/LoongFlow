@@ -7,9 +7,9 @@
 _从原子组件、开发框架到核心场景 Agent，提供全面的进化 Agent 构建和应用支持_
 
 <p align="center">
-    <a href="https://arxiv.org/abs/xxxx.xxxxxx">
+    <a href="https://arxiv.org/abs/2512.24077">
         <img
-            src="https://img.shields.io/badge/cs.MA-xxxx.xxxx-B31C1C?logo=arxiv&logoColor=B31C1C"
+            src="https://img.shields.io/badge/cs.AI-2512.24077-B31C1C?logo=arxiv&logoColor=B31C1C"
             alt="arxiv"
         />
     </a>

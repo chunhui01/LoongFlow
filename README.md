@@ -7,9 +7,9 @@
 _From atomic components and development frameworks to core scenario Agents, comprehensive evolutionary Agent construction and application support is provided._
 
 <p align="center">
-    <a href="https://arxiv.org/abs/xxxx.xxxxxx">
+    <a href="https://arxiv.org/abs/2512.24077">
         <img
-            src="https://img.shields.io/badge/cs.MA-xxxx.xxxx-B31C1C?logo=arxiv&logoColor=B31C1C"
+            src="https://img.shields.io/badge/cs.AI-2512.24077-B31C1C?logo=arxiv&logoColor=B31C1C"
             alt="arxiv"
         />
     </a>

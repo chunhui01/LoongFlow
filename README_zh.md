@@ -53,11 +53,11 @@ _让创造更自由！LoongFlow，让你的经验轻松转化为专业的 AI 生
 <p align="center"><strong>通用进化智能体</strong></p>
 </div>
 <div style="height: 60px; display: flex; align-items: center; justify-content: center;">
-<p align="center"><strong>高效</strong>、<strong>稳定</strong>通用算法设计和进化</p>
+<p align="center"><strong>高效</strong>、<strong>稳定</strong>驱动通用算法设计和进化</p>
 </div>
 </td>
 
-<td width="40%" align="center" style="vertical-align: top; padding: 20px;">
+<td width="30%" align="center" style="vertical-align: top; padding: 20px;">
 <div style="height: 60px; display: flex; align-items: center; justify-content: center;">
 <h3 style="margin: 0; padding: 0;">🔥 <strong>ML-Evolve</strong></h3>
 </div>
@@ -68,11 +68,11 @@ _让创造更自由！LoongFlow，让你的经验轻松转化为专业的 AI 生
 <p align="center"><strong>机器学习智能体</strong></p>
 </div>
 <div style="height: 60px; display: flex; align-items: center; justify-content: center;">
-<p align="center"><strong>全流程、全自主</strong>构建，持续进化突破</p>
+<p align="center"><strong>全流程、全自主</strong>设计构建，持续进化突破</p>
 </div>
 
 </td>
-<td width="40%" align="center" style="vertical-align: top; padding: 20px;">
+<td width="30%" align="center" style="vertical-align: top; padding: 20px;">
 <div style="height: 60px; display: flex; align-items: center; justify-content: center;">
 <h3 style="margin: 0; padding: 0;">⭐ <strong>LoongFlow</strong></h3>
 </div>

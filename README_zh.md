@@ -68,7 +68,7 @@ _让创造更自由！LoongFlow，让你的经验轻松转化为专业的 AI 生
 <p align="center"><strong>机器学习智能体</strong></p>
 </div>
 <div style="height: 60px; display: flex; align-items: center; justify-content: center;">
-<p align="center"><strong>全流程自动构建</strong>，持续进化至最优效果</p>
+<p align="center"><strong>全流程、全自动</strong>构建，持续进化至最优效果</p>
 </div>
 
 </td>

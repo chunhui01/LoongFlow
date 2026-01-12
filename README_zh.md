@@ -52,8 +52,8 @@ _让创造更自由！LoongFlow，让你的经验轻松转化为专业的 AI 生
 <div style="height: 60px; display: flex; align-items: center; justify-content: center;">
 <p align="center"><strong>通用进化智能体</strong></p>
 </div>
-<div style="height: 60px; display: flex; align-items: center; justify-content: center; max-width: 360px; margin: 0 auto;">
-<p align="center"><strong>高效</strong>、<strong>稳定</strong>驱动<br>通用算法设计和持续进化</p>
+<div style="height: 120px; display: flex; align-items: center; justify-content: center;">
+<p align="center"><strong>高效</strong>、<strong>稳定</strong>驱动通用算法设计和持续进化</p>
 </div>
 </td>
 
@@ -67,8 +67,8 @@ _让创造更自由！LoongFlow，让你的经验轻松转化为专业的 AI 生
 <div style="height: 60px; display: flex; align-items: center; justify-content: center;">
 <p align="center"><strong>机器学习智能体</strong></p>
 </div>
-<div style="height: 60px; display: flex; align-items: center; justify-content: center; max-width: 360px; margin: 0 auto;">
-<p align="center"><strong>全流程、全自主</strong>完整<br>构建，持续进化突破</p>
+<div style="height: 120px; display: flex; align-items: center; justify-content: center;">
+<p align="center"><strong>全流程、全自主</strong>完整构建，持续进化突破</p>
 </div>
 
 </td>
@@ -82,8 +82,8 @@ _让创造更自由！LoongFlow，让你的经验轻松转化为专业的 AI 生
 <div style="height: 60px; display: flex; align-items: center; justify-content: center;">
 <p align="center"><strong>通用Agent框架</strong></p>
 </div>
-<div style="height: 60px; display: flex; align-items: center; justify-content: center; max-width: 360px; margin: 0 auto;">
-<p align="center"><strong>会思考、会学习</strong>的专家级<br>通用Agent开发框架</p>
+<div style="height: 120px; display: flex; align-items: center; justify-content: center;">
+<p align="center"><strong>会思考、会学习</strong>的专家级通用Agent开发框架</p>
 </div>
 </td>
 

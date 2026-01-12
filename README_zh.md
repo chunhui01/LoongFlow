@@ -83,7 +83,7 @@ _让创造更自由！LoongFlow，让你的经验轻松转化为专业的 AI 生
 <p align="center"><strong>通用Agent框架</strong></p>
 </div>
 <div style="height: 60px; display: flex; align-items: center; justify-content: center;">
-<p align="center"><strong>会思考、会学习</strong>专家级Agent开发框架</p>
+<p align="center"><strong>会思考、会学习</strong>的专家级Agent框架</p>
 </div>
 </td>
 

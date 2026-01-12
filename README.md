@@ -54,7 +54,7 @@ _Set Creativity Free! LoongFlow turns your expertise into professional AI produc
 <p align="center"><strong>General Evolve Agent </strong></p>
 </div>
 <div style="height: 60px; display: flex; align-items: center; justify-content: center;">
-<p align="center"><strong>Efficient</strong>,<strong>stable</strong> driving of universal algorithm design and continuous evolution</p>
+<p align="center"><strong>Efficient</strong>,<strong>stable</strong> driving of universal algorithm design and continuous evolution.</p>
 </div>
 </td>
 
@@ -69,7 +69,7 @@ _Set Creativity Free! LoongFlow turns your expertise into professional AI produc
 <p align="center"><strong>Machine Learning Agent</strong></p>
 </div>
 <div style="height: 60px; display: flex; align-items: center; justify-content: center;">
-<p align="center"><strong>Full-process</strong>,<strong>autonomous</strong> construction and continuous evolutionary breakthrough</p>
+<p align="center"><strong>Full-process</strong>,<strong>autonomous</strong> construction and continuous evolutionary breakthrough.</p>
 </div>
 
 </td>
@@ -115,7 +115,7 @@ Innovative Multi-Structure Fusion Memory. By actively generating model reasoning
 
 **Expert-Grade Performance**: 
 Validated in General Evolution and Machine Learning—the two most demanding domains.
-- Mathematical Challenges (Tao’s & AlphaEvolve sets): Outperformed the best human results on 11 problems and surpassed AlphaEvolve’s results on 7 problems, achieving the latest SOTA (State-of-the-Art).
+- Mathematical Challenges (Tao’s & AlphaEvolve sets): Outperformed the best human results on 11 problems and surpassed AlphaEvolve’s results on 7 problems, achieving the latest SOTA.
 - MLE-bench (Kaggle Challenges): Validated across 40 Kaggle competitions, securing 22 Gold Medals.
 - Efficiency Gains: Achieved an approximate 60% increase in comprehensive evolutionary efficiency compared to traditional methods.
 

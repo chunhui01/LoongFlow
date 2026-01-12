@@ -39,7 +39,7 @@ _让创造更自由！LoongFlow，让你的经验轻松转化为专业的 AI 生
 
 <br/>
 
-<table align="center" width="100%" style="border: none; table-layout: fixed;">
+<table align="center" width="90%" style="border: none; table-layout: fixed;">
 <tr>
 
 <td width="30%" align="center" style="vertical-align: top; padding: 20px;">

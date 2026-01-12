@@ -53,7 +53,7 @@ _让创造更自由！LoongFlow，让你的经验轻松转化为专业的 AI 生
 <p align="center"><strong>通用进化智能体</strong></p>
 </div>
 <div style="height: 60px; display: flex; align-items: center; justify-content: center;">
-<p align="center"><strong>高效</strong>、<strong>稳定</strong>驱动通用算法设计和持续优化</p>
+<p align="center"><strong>高效</strong>、<strong>稳定</strong>驱动通用算法设计和进化</p>
 </div>
 </td>
 

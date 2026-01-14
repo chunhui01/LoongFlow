@@ -4,7 +4,9 @@
 
 <h2 align="center">LoongFlow: An Expert-Grade Agent Framework That Thinks and Learns.</h2>
 
-_Set Creativity Free! LoongFlow turns your expertise into professional AI productivity._
+_Set creativity free! LoongFlow: effortlessly transform your expert experience into professional AI productivity._
+
+-Enable Agents to think and learn through the PES paradigm, equipping them with long-range complex reasoning capabilities, the ability to bypass local optima, and the capacity to accumulate experience through iteration to achieve expert-level breakthroughs.-
 
 <p align="center">
     <a href="https://arxiv.org/abs/2512.24077">

@@ -5,6 +5,7 @@
 <h2 align="center">LoongFlow：会思考、会学习的专家级Agent开发框架</h2>
 
 _让创造更自由！LoongFlow，让你的专家经验轻松转化为专业 AI 生产力。_
+
 _通过PES思考范式让Agent会思考、会学习，具备长程复杂推理能力，并且能够跳过局部最优，在迭代中积累经验实现专家级效果突破。_
 
 <p align="center">
@@ -113,7 +114,9 @@ _通过PES思考范式让Agent会思考、会学习，具备长程复杂推理�
 
 - **专家级**：在通用进化和机器学习两个高难度场景验证。在陶哲轩&AlphaEvolve发布数学挑战中，有11个题目超过人类最好结果，并在7个问题上超过AlphaEvolve进化结果，取得最新SOTA；在MLE-bench评测集中40场kaggle机器学习赛事验证，取得22场金牌。同时相比传统方法，综合进化效率提升约60%。
 
-We believe that the key to designing an expert-level Agent capable of solving complex problems lies in the **Agent’s thinking paradigm**. The thinking paradigm determines the complexity of problems an Agent can handle and sets the ceiling for its effectiveness. LoongFlow is built specifically for complex tasks requiring long-range reasoning, helping developers rapidly build Agents with domain-expert performance.
+
+我们认为，设计一个能解决复杂问题的专家级Agent，**关键就在于Agent的思考模式**，思考模式决定了这个Agent能解决问题的复杂度和效果上限。LoongFlow就是为解决需要长程思考的复杂任务而生，帮助开发者快速构建领域专家级效果Agent。
+
 
 ## 🚀 快速开始
 

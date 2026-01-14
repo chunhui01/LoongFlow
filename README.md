@@ -122,6 +122,9 @@ Validated in General Evolution and Machine Learning—the two most demanding dom
 - Efficiency Gains: Achieved an approximate 60% increase in comprehensive evolutionary efficiency compared to traditional methods.
 
 
+We believe that the key to designing an expert-level Agent capable of solving complex problems lies in the **Agent’s thinking paradigm**. The thinking paradigm determines the complexity of problems an Agent can handle and sets the ceiling for its effectiveness. LoongFlow is built specifically for complex tasks requiring long-range reasoning, helping developers rapidly build Agents with domain-expert performance.
+
+
 ## 🚀 Quick Start
 
 ### Installation
